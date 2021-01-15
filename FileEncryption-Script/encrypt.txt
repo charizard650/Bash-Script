@@ -1,0 +1,4 @@
+#! /usr/bin/bash
+
+echo "This is a sample text file used for encryption shell scripting."
+
